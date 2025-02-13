@@ -15,7 +15,7 @@
 ### <div align="center">Hello I'm Mustafa, a passionate backend developer</div>  
   
 
-- 🔭 I’m currently working on a[ Microservice Project](https://github.com/mustafakaplan20/rentacar-microservice-project)  
+- 🔭 I'm a technical analyst with a developer background
   
 
 - 🌱 I’m life-time learner  
