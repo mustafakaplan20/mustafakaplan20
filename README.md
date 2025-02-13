@@ -12,10 +12,10 @@
 </div>  
   
 
-### <div align="center">Hello I'm Mustafa, a passionate backend developer</div>  
+### <div align="center">Hello I'm Mustafa, a passionate IT technical analyst </div>  
   
 
-- 🔭 I'm a technical analyst with a developer background
+- 🔭 I'm a IT technical analyst with a developer background
   
 
 - 🌱 I’m life-time learner  
